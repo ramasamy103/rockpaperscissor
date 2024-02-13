@@ -1,0 +1,21 @@
+*{
+    padding: 0%;
+    margin: 0;
+    box-sizing: border-box;
+}
+html,body {
+    width: 100%;
+    font-size: 16px;
+    background-color: lightblue;
+    color: antiquewhite;
+  }
+h1{
+    font-size: 250%;
+}
+main{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
